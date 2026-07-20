@@ -16,9 +16,9 @@ pre: " <b> 1.12. </b> "
 | --- | ---- | ---------- | --------------- | ------------------- |
 | Monday |  | 06/07/2026 | 06/07/2026 |  |
 | Tuesday |  | 07/07/2026 | 07/07/2026 |  |
-| Wednesday | Conduct a UI/UX audit, plan, and lead the Frontend team to standardize the Design System (synchronizing color palettes, typography, and iconography). | 08/07/2026 | 08/07/2026 |  |
-| Thursday | Review code, support layout restructuring for better harmony, and debug responsive issues across multiple devices. | 09/07/2026 | 11/07/2026 |  |
-| Friday | Perform comprehensive UI/UX testing, accept frontend upgrades, merge code, and finalize the ultimate UI version. | 09/07/2026 | 11/07/2026 |  |
+| Wednesday | Conduct a UI/UX audit, plan, and lead the Frontend team to standardize the Design System (synchronizing color palettes, typography, and iconography). | 08/07/2026 | 08/07/2026 | GitHub / Jira |
+| Thursday | Review code, support layout restructuring for better harmony, and debug responsive issues across multiple devices. | 09/07/2026 | 11/07/2026 | GitHub / Jira |
+| Friday | Perform comprehensive UI/UX testing, accept frontend upgrades, merge code, and finalize the ultimate UI version. | 09/07/2026 | 11/07/2026 | GitHub / Jira |
 | Saturday |  | 09/07/2026 | 11/07/2026 |  |
 | Sunday |  | 12/07/2026 | 12/07/2026 |  |
 
