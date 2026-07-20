@@ -33,4 +33,4 @@ Typically, and as a standard, a worklog is carried out over about 3 months (thro
 
 **Week 11:** [Internship Report Compilation, Proposal & Workshop Rehearsal](1.11-week11/)
 
-
+**Week 12:** [UI/UX Audit, Design System Standardization & Frontend Leadership](1.12-week12)
