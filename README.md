@@ -58,9 +58,9 @@ aws-internship-report-site/
 │   ├── 2-Proposal/               # Internship proposal document
 │   │
 │   ├── 3-BlogsTranslated/        # 6 translated AWS blogs
-│   │   ├── 3.1-Blog1/            # Blog 1: Healthcare data lakes with microservices
-│   │   ├── 3.2-Blog2/
-│   │   ├── ... (up to 3.6-Blog6/)
+│   │   ├── 3.1-Blog1/            # Blog 1: Refining the Serverless Architecture for GreenLens Kids through Practical Experience
+│   │   ├── 3.2-Blog2/            # Blog 2: Building the Cloud Application Layer with First Cloud AI Journey
+│   │   ├── 3.3-Blog3/            # Blog 3: Summarizing the Journey of Building GreenLens Kids with First Cloud AI Journey
 │   │
 │   ├── 4-EventParticipated/      # Events attended during internship
 │   │   ├── 4.1-Event1/           # GenAI-powered App-DB Modernization Workshop
@@ -120,7 +120,7 @@ The site is organized into 7 main sections:
 |---|---|---|
 | 1 | **Worklog** | Weekly activity logs covering 12 weeks of internship |
 | 2 | **Proposal** | Internship plan and project proposal submitted to AWS |
-| 3 | **Translated Blogs** | 6 AWS official blogs translated from English to Vietnamese |
+| 3 | **Translated Blogs** | 3 AWS official blogs translated from English to Vietnamese |
 | 4 | **Events Participated** | Events and workshops attended during the internship period |
 | 5 | **Workshop** | Step-by-step technical lab: *Secure Hybrid Access to S3 using VPC Endpoints* |
 | 6 | **Self-evaluation** | Self-assessment across 12 professional criteria |

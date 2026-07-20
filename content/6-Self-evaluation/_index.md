@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at Amazon Web Services Vietnam from 18/04/2026 to 10/07/2026, I had the opportunity to work in a practical professional environment and apply the knowledge I had learned at university to real-world tasks.
+During my internship at Amazon Web Services Vietnam from 17/04/2026 to 30/07/2026, I had the opportunity to work in a practical professional environment and apply the knowledge I had learned at university to real-world tasks.
 
 During this internship, I took on the role of **Backend Developer** for the project. My core responsibilities included designing the system architecture, developing robust APIs using FastAPI and Docker, integrating and managing AWS infrastructure (such as DynamoDB and S3), and authoring comprehensive technical blogs to document the project's architecture, local setups, and troubleshooting phases. Furthermore, I collaborated closely with the Frontend team by providing technical consultation, reviewing data structures (JSON schemas), mapping data payloads, and supporting the API integration process. In this capacity, I strictly focused on backend logic and merely read or debugged frontend code to facilitate integration, rather than developing the UI itself.
 

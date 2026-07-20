@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại Amazon Web Services Việt Nam từ 18/04/2026 đến 10/07/2026, tôi đã có cơ hội làm việc trong một môi trường chuyên nghiệp thực tiễn và áp dụng những kiến thức đã học tại trường đại học vào các dự án thực tế.
+Trong suốt thời gian thực tập tại Amazon Web Services Việt Nam từ 17/04/2026 đến 30/07/2026, tôi đã có cơ hội làm việc trong một môi trường chuyên nghiệp thực tiễn và áp dụng những kiến thức đã học tại trường đại học vào các dự án thực tế.
 
 Trong đợt thực tập này, tôi đảm nhận vai trò **Backend Developer** của dự án. Trách nhiệm chính của tôi bao gồm thiết kế kiến trúc hệ thống, phát triển các API cốt lõi sử dụng FastAPI và Docker, thiết lập và quản lý hạ tầng AWS (bao gồm DynamoDB và S3), cũng như soạn thảo các bài blog kỹ thuật (technical blogs) để tài liệu hóa về kiến trúc, môi trường local và các giai đoạn xử lý sự cố của dự án. Bên cạnh đó, tôi đã phối hợp chặt chẽ với team Frontend thông qua việc cung cấp tư vấn kỹ thuật, rà soát cấu trúc dữ liệu (JSON schemas), ánh xạ dữ liệu (data mapping) và hỗ trợ toàn diện quá trình tích hợp API. Trong quy trình này, tôi chỉ tập trung vào xử lý logic backend, đọc và debug code frontend để hỗ trợ ghép nối chứ không trực tiếp tham gia lập trình giao diện (UI).
 
